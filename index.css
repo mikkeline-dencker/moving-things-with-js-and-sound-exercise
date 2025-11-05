@@ -1,8 +1,11 @@
 #dodger {
-  background-color: white;
-  height: 20px;
-  position: absolute;
+  background-image: url(img/pacman.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 40px;
   width: 40px;
+  position: absolute;
 }
 
 #game {
